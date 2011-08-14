@@ -1,0 +1,20 @@
+[
+	{
+		"network_name": "Cpaway",
+		"file_name": "Cpaway.php",
+		"username": "your username",
+		"password": "your password"
+	},
+	{
+		"network_name": "Maxbounty",
+		"file_name": "Maxbounty.php",
+		"username": "your username",
+		"password": "your password"
+	},
+	{
+		"network_name": "Copeac",
+		"file_name": "Copeac.php",
+		"username": "your username",
+		"password": "your password"
+	}
+]
