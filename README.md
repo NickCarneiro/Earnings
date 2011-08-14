@@ -15,5 +15,5 @@ To add a new Affiliate network, add the class file to the networks folder and ad
 ## Installation
 * Copy the files to your web server.
 * Edit the username and password variables in earnings.php to protect your information.
-* Edit the networks array in earnings.php to contain the networks you want to scrape along with your credentials for each one.
+* Edit the network info  in networks.json to contain the networks you want to scrape along with your credentials for each one.
 * Load index.php in your browser to see the results.
